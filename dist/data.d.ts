@@ -16,7 +16,7 @@ export interface Option {
     selected?: boolean;
     display?: boolean;
     disabled?: boolean;
-    placeholder?: boolean | string;
+    placeholder?: boolean;
     class?: string;
     style?: string;
     data?: object;
